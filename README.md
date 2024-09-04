@@ -1,2 +1,2 @@
 # IndexSearch
-Projeto de página inicial 
+Projeto de página inicial de algum mecanismo de busca.
